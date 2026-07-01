@@ -23,6 +23,12 @@ OFF_TOPIC_KEYWORDS = {
     "weather", "sports", "politics", "cooking", "recipe", "movie", "music",
     "game", "play", "travel", "vacation", "news", "stock", "crypto",
     "legal advice", "medical", "health advice", "investment",
+    "gaming", "gambling", "dating", "fashion", "food", "fitness", "poetry",
+    "essay", "homework", "math", "science",
+    "history", "geography", "art", "dance", "sing", "draw", "paint",
+    "relationship", "philosophy", "religion", "spirituality",
+    "horoscope", "astrology", "dream", "joke", "funny", "meme",
+    "entertainment", "celebrity", "favorite food", "favorite movie",
 }
 
 LEGAL_REQUIRED_PATTERNS = [
@@ -43,6 +49,18 @@ HIRING_CONTEXT_TERMS = {
     "leadership", "senior", "manager", "engineer", "developer",
     "contact center", "customer service", "sales", "graduate",
     "entry level", "executive", "director", "pool",
+    "workforce", "staff", "personnel", "team", "organization",
+    "promot", "succession", "talent management", "competency",
+    "behavioral", "psychometric", "selection", "recruitment",
+    "onboard", "training", "development", "performance",
+    "appraisal", "benchmark", "assessment center",
+    "scenario", "situational", "exercise", "simulator",
+    "programmer", "architect", "admin", "specialist",
+    "technician", "operator", "associate", "representative",
+    "consultant", "advisor", "coordinator", "planner",
+    "analytics", "technical", "domain", "industry",
+    "compliance", "safety", "quality", "audit",
+    "hr", "human resources", "hiring manager", "ta",
 }
 
 ROLE_TERMS = [
