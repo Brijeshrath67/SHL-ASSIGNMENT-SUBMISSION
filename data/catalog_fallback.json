@@ -1,0 +1,1202 @@
+[
+  {
+    "entity_id": 1282,
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/opq32r/",
+    "description": "Occupational Personality Questionnaire - measures personality traits relevant to the workplace across 32 dimensions",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Graduate", "Manager", "Professional", "Entry Level"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Dutch", "Chinese", "Japanese"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1283,
+    "name": "Verify G+",
+    "url": "https://www.shl.com/solutions/products/verify-g-plus/",
+    "description": "General cognitive ability test measuring verbal, numerical and abstract reasoning",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese"],
+    "duration": 36
+  },
+  {
+    "entity_id": 1284,
+    "name": "MQ",
+    "url": "https://www.shl.com/solutions/products/motivation-questionnaire/",
+    "description": "Motivational Questionnaire measuring what drives and motivates individuals at work",
+    "keys": ["Motivation & Culture Fit"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1285,
+    "name": "DSI",
+    "url": "https://www.shl.com/solutions/products/decision-style-inventory/",
+    "description": "Decision Style Inventory measures decision-making preferences and styles",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Manager", "Professional", "Executive"],
+    "languages": ["English (USA)", "English (UK)", "French"],
+    "duration": 15
+  },
+  {
+    "entity_id": 1286,
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/global-skills-assessment/",
+    "description": "Comprehensive assessment measuring critical thinking, problem solving, and analytical skills globally",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Manager"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese", "Arabic"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1287,
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/solutions/products/graduate-scenarios/",
+    "description": "Situational judgment test designed for graduate level candidates assessing workplace decision making",
+    "keys": ["Situational Judgement"],
+    "job_levels": ["Graduate"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1288,
+    "name": "Financial Accounting Knowledge",
+    "url": "https://www.shl.com/solutions/products/financial-accounting/",
+    "description": "Knowledge test assessing understanding of financial accounting principles and practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1289,
+    "name": "Basic Statistics Knowledge",
+    "url": "https://www.shl.com/solutions/products/basic-statistics/",
+    "description": "Knowledge test assessing fundamental statistics concepts and data analysis skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1290,
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/solutions/products/smart-interview-live-coding/",
+    "description": "Video interview with live coding challenges for assessing programming skills in real-time",
+    "keys": ["Simulation", "Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 60
+  },
+  {
+    "entity_id": 1291,
+    "name": "SQL Knowledge",
+    "url": "https://www.shl.com/solutions/products/sql/",
+    "description": "Knowledge test assessing SQL query writing and database management skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1292,
+    "name": "Core Java Knowledge",
+    "url": "https://www.shl.com/solutions/products/core-java/",
+    "description": "Knowledge test assessing Core Java programming concepts and object-oriented design",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1293,
+    "name": "Spring Knowledge",
+    "url": "https://www.shl.com/solutions/products/spring/",
+    "description": "Knowledge test assessing Spring framework concepts including IOC, MVC, and dependency injection",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1294,
+    "name": "AWS Knowledge",
+    "url": "https://www.shl.com/solutions/products/aws/",
+    "description": "Knowledge test assessing Amazon Web Services cloud computing concepts and services",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1295,
+    "name": "Docker Knowledge",
+    "url": "https://www.shl.com/solutions/products/docker/",
+    "description": "Knowledge test assessing Docker containerization concepts and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1296,
+    "name": "Linux Programming Knowledge",
+    "url": "https://www.shl.com/solutions/products/linux-programming/",
+    "description": "Knowledge test assessing Linux system programming and shell scripting skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1297,
+    "name": "Python Knowledge",
+    "url": "https://www.shl.com/solutions/products/python/",
+    "description": "Knowledge test assessing Python programming concepts and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1298,
+    "name": "MS Excel Knowledge",
+    "url": "https://www.shl.com/solutions/products/ms-excel/",
+    "description": "Knowledge test assessing Microsoft Excel skills including formulas, pivot tables, and data analysis",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1299,
+    "name": "MS Word Knowledge",
+    "url": "https://www.shl.com/solutions/products/ms-word/",
+    "description": "Knowledge test assessing Microsoft Word document creation and formatting skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1300,
+    "name": "Medical Terminology Knowledge",
+    "url": "https://www.shl.com/solutions/products/medical-terminology/",
+    "description": "Knowledge test assessing medical terminology and healthcare vocabulary",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1301,
+    "name": "HIPAA Knowledge",
+    "url": "https://www.shl.com/solutions/products/hipaa/",
+    "description": "Knowledge test assessing HIPAA compliance and healthcare privacy regulations",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1302,
+    "name": "Contact Center Call Simulation",
+    "url": "https://www.shl.com/solutions/products/contact-center-call-simulation/",
+    "description": "Simulation assessing customer service skills in a contact center phone environment",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1303,
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/customer-service-phone-simulation/",
+    "description": "Simulation assessing customer service skills over the phone with customer interactions",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1304,
+    "name": "SVAR",
+    "url": "https://www.shl.com/solutions/products/svar/",
+    "description": "Speech and Voice Assessment Recorder - evaluates spoken language proficiency",
+    "keys": ["Simulation", "Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "Spanish", "German"],
+    "duration": 15
+  },
+  {
+    "entity_id": 1305,
+    "name": "OPQ32r Sales Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-sales-report/",
+    "description": "Sales-specific report based on OPQ32r personality assessment tailored for sales roles",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1306,
+    "name": "OPQ32r MQ Sales Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-mq-sales-report/",
+    "description": "Combined sales report integrating OPQ32r personality and Motivation Questionnaire insights",
+    "keys": ["Personality & Behavioral", "Motivation & Culture Fit"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1307,
+    "name": "Sales Transformation 2.0",
+    "url": "https://www.shl.com/solutions/products/sales-transformation/",
+    "description": "Comprehensive sales assessment measuring sales competencies, potential and development areas",
+    "keys": ["Personality & Behavioral", "Ability & Aptitude"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 60
+  },
+  {
+    "entity_id": 1308,
+    "name": "Safety & Dependability 8.0",
+    "url": "https://www.shl.com/solutions/products/safety-dependability/",
+    "description": "Assessment measuring safety orientation, rule-following, and dependable workplace behaviors",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1309,
+    "name": "Workplace Health and Safety Knowledge",
+    "url": "https://www.shl.com/solutions/products/workplace-health-safety/",
+    "description": "Knowledge test assessing workplace health and safety regulations and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1310,
+    "name": "OPQ32r Manager Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-manager-report/",
+    "description": "Manager-focused report based on OPQ32r personality assessment for leadership development",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1311,
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/global-skills-development-report/",
+    "description": "Development-focused report based on Global Skills Assessment providing actionable insights for growth",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1312,
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/entry-level-customer-serv-retail-contact-center/",
+    "description": "Assessment bundle for entry level customer service roles in retail and contact center environments",
+    "keys": ["Simulation", "Personality & Behavioral"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1313,
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-numerical-reasoning/",
+    "description": "Cognitive ability test focusing specifically on numerical reasoning and data interpretation",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1314,
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-verbal-reasoning/",
+    "description": "Cognitive ability test focusing specifically on verbal reasoning and comprehension",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1315,
+    "name": "Verify Abstract Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-abstract-reasoning/",
+    "description": "Cognitive ability test focusing specifically on abstract and inductive reasoning",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1316,
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-inductive-reasoning/",
+    "description": "Cognitive ability test measuring inductive reasoning and pattern recognition",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1317,
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-deductive-reasoning/",
+    "description": "Cognitive ability test measuring deductive reasoning and logical analysis",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1318,
+    "name": "Verify Calculation",
+    "url": "https://www.shl.com/solutions/products/verify-calculation/",
+    "description": "Cognitive ability test measuring mental arithmetic and numerical calculation speed and accuracy",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 10
+  },
+  {
+    "entity_id": 1319,
+    "name": "Verify Data Checking",
+    "url": "https://www.shl.com/solutions/products/verify-data-checking/",
+    "description": "Cognitive ability test measuring attention to detail and data verification accuracy",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 10
+  },
+  {
+    "entity_id": 1320,
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/verify-mechanical-comprehension/",
+    "description": "Cognitive ability test measuring mechanical understanding and physical principles",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1321,
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-spatial-reasoning/",
+    "description": "Cognitive ability test measuring spatial awareness and visualization skills",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1322,
+    "name": "OPQ32r Leadership Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-leadership-report/",
+    "description": "Leadership-focused OPQ32r report providing insights for executive and leadership development",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Manager", "Executive"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1323,
+    "name": "Occupational Personality Questionnaire (OPQ32)",
+    "url": "https://www.shl.com/solutions/products/occupational-personality-questionnaire/",
+    "description": "Full version of the Occupational Personality Questionnaire measuring 32 personality characteristics",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional", "Executive"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Dutch", "Chinese", "Japanese", "Arabic"],
+    "duration": 35
+  },
+  {
+    "entity_id": 1324,
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/situational-judgement-test/",
+    "description": "Measures how candidates handle workplace scenarios and make decisions in realistic situations",
+    "keys": ["Situational Judgement"],
+    "job_levels": ["Entry Level", "Graduate", "Manager"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1325,
+    "name": "Smart Interview",
+    "url": "https://www.shl.com/solutions/products/smart-interview/",
+    "description": "On-demand video interview platform with structured questions and AI-powered analysis",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish", "Chinese"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1326,
+    "name": "SHL 360",
+    "url": "https://www.shl.com/solutions/products/shl-360/",
+    "description": "Multi-rater feedback assessment for leadership and management development",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Manager", "Executive"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1327,
+    "name": "Job-Focused Assessments (JFA)",
+    "url": "https://www.shl.com/solutions/products/job-focused-assessments/",
+    "description": "Customizable assessments tailored to specific job roles combining multiple assessment types",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral", "Situational Judgement"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1328,
+    "name": "Manager Scenarios",
+    "url": "https://www.shl.com/solutions/products/manager-scenarios/",
+    "description": "Situational judgment test designed for manager-level candidates assessing leadership decisions",
+    "keys": ["Situational Judgement"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1329,
+    "name": "Professional Scenarios",
+    "url": "https://www.shl.com/solutions/products/professional-scenarios/",
+    "description": "Situational judgment test for experienced professional roles assessing workplace judgment",
+    "keys": ["Situational Judgement"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1330,
+    "name": "Customer Service Scenarios",
+    "url": "https://www.shl.com/solutions/products/customer-service-scenarios/",
+    "description": "Situational judgment test specifically for customer service roles",
+    "keys": ["Situational Judgement"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1331,
+    "name": "JavaScript Knowledge",
+    "url": "https://www.shl.com/solutions/products/javascript/",
+    "description": "Knowledge test assessing JavaScript programming concepts and web development skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1332,
+    "name": "React Knowledge",
+    "url": "https://www.shl.com/solutions/products/react/",
+    "description": "Knowledge test assessing React.js frontend development concepts and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1333,
+    "name": "Angular Knowledge",
+    "url": "https://www.shl.com/solutions/products/angular/",
+    "description": "Knowledge test assessing Angular framework development concepts and practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1334,
+    "name": "Node.js Knowledge",
+    "url": "https://www.shl.com/solutions/products/nodejs/",
+    "description": "Knowledge test assessing Node.js backend development and server-side JavaScript skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1335,
+    "name": "C# Knowledge",
+    "url": "https://www.shl.com/solutions/products/c-sharp/",
+    "description": "Knowledge test assessing C# programming language and .NET framework concepts",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1336,
+    "name": "SQL Server Knowledge",
+    "url": "https://www.shl.com/solutions/products/sql-server/",
+    "description": "Knowledge test assessing Microsoft SQL Server database administration and query skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1337,
+    "name": "Kubernetes Knowledge",
+    "url": "https://www.shl.com/solutions/products/kubernetes/",
+    "description": "Knowledge test assessing Kubernetes container orchestration and management skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1338,
+    "name": "Azure Knowledge",
+    "url": "https://www.shl.com/solutions/products/azure/",
+    "description": "Knowledge test assessing Microsoft Azure cloud computing concepts and services",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1339,
+    "name": "GCP Knowledge",
+    "url": "https://www.shl.com/solutions/products/gcp/",
+    "description": "Knowledge test assessing Google Cloud Platform computing concepts and services",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1340,
+    "name": "Cybersecurity Knowledge",
+    "url": "https://www.shl.com/solutions/products/cybersecurity/",
+    "description": "Knowledge test assessing cybersecurity principles, threats, and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1341,
+    "name": "Data Science Knowledge",
+    "url": "https://www.shl.com/solutions/products/data-science/",
+    "description": "Knowledge test assessing data science concepts including statistics, ML, and data analysis",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1342,
+    "name": "Machine Learning Knowledge",
+    "url": "https://www.shl.com/solutions/products/machine-learning/",
+    "description": "Knowledge test assessing machine learning algorithms, frameworks, and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1343,
+    "name": "HR Knowledge",
+    "url": "https://www.shl.com/solutions/products/hr-knowledge/",
+    "description": "Knowledge test assessing human resources principles, practices, and employment law",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1344,
+    "name": "Project Management Knowledge",
+    "url": "https://www.shl.com/solutions/products/project-management/",
+    "description": "Knowledge test assessing project management methodologies including Agile, Waterfall, and PMP",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1345,
+    "name": "Sales Knowledge",
+    "url": "https://www.shl.com/solutions/products/sales-knowledge/",
+    "description": "Knowledge test assessing sales methodologies, techniques, and best practices",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1346,
+    "name": "Accounting Knowledge",
+    "url": "https://www.shl.com/solutions/products/accounting/",
+    "description": "Knowledge test assessing accounting principles, financial reporting, and bookkeeping skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1347,
+    "name": "Call Center Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/call-center-phone-simulation/",
+    "description": "Simulation of inbound and outbound call center interactions with customer scenarios",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1348,
+    "name": "Retail Sales Simulation",
+    "url": "https://www.shl.com/solutions/products/retail-sales-simulation/",
+    "description": "Simulation assessing retail sales skills including customer interaction and product knowledge",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1349,
+    "name": "Management Simulation",
+    "url": "https://www.shl.com/solutions/products/management-simulation/",
+    "description": "Simulation assessing management and leadership decision-making in realistic business scenarios",
+    "keys": ["Simulation"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1350,
+    "name": "Presentation Simulation",
+    "url": "https://www.shl.com/solutions/products/presentation-simulation/",
+    "description": "Simulation assessing presentation and communication skills in a business context",
+    "keys": ["Simulation"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1351,
+    "name": "Email Simulation",
+    "url": "https://www.shl.com/solutions/products/email-simulation/",
+    "description": "Simulation assessing written communication and email handling skills in a work context",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1352,
+    "name": "Negotiation Simulation",
+    "url": "https://www.shl.com/solutions/products/negotiation-simulation/",
+    "description": "Simulation assessing negotiation skills in business and sales scenarios",
+    "keys": ["Simulation"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1353,
+    "name": "Leadership Simulation",
+    "url": "https://www.shl.com/solutions/products/leadership-simulation/",
+    "description": "Simulation assessing leadership and team management skills in complex business situations",
+    "keys": ["Simulation"],
+    "job_levels": ["Manager", "Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1354,
+    "name": "Critical Thinking Simulation",
+    "url": "https://www.shl.com/solutions/products/critical-thinking-simulation/",
+    "description": "Simulation assessing critical thinking and analytical problem-solving skills",
+    "keys": ["Simulation", "Ability & Aptitude"],
+    "job_levels": ["Graduate", "Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1355,
+    "name": "OPQ32r Team Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-team-report/",
+    "description": "Team-focused report based on OPQ32r providing insights for team dynamics and composition",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1356,
+    "name": "OPQ32r Candidate Report",
+    "url": "https://www.shl.com/solutions/products/opq32r-candidate-report/",
+    "description": "Candidate-friendly report based on OPQ32r providing self-insights and development suggestions",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1357,
+    "name": "MQ Sales Report",
+    "url": "https://www.shl.com/solutions/products/mq-sales-report/",
+    "description": "Motivation Questionnaire report tailored for sales roles assessing sales-specific motivators",
+    "keys": ["Motivation & Culture Fit"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1358,
+    "name": "MQ Manager Report",
+    "url": "https://www.shl.com/solutions/products/mq-manager-report/",
+    "description": "Motivation Questionnaire report tailored for management roles assessing leadership motivators",
+    "keys": ["Motivation & Culture Fit"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1359,
+    "name": "MQ Candidate Report",
+    "url": "https://www.shl.com/solutions/products/mq-candidate-report/",
+    "description": "Candidate-friendly Motivation Questionnaire report providing self-insights on work motivation",
+    "keys": ["Motivation & Culture Fit"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1360,
+    "name": "Verify G+ Manager Report",
+    "url": "https://www.shl.com/solutions/products/verify-g-manager-report/",
+    "description": "Manager-focused report for Verify G+ cognitive ability assessment with detailed insights",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 36
+  },
+  {
+    "entity_id": 1361,
+    "name": "General Ability - Graduate",
+    "url": "https://www.shl.com/solutions/products/general-ability-graduate/",
+    "description": "Cognitive ability assessment designed specifically for graduate level candidates",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1362,
+    "name": "General Ability - Managerial",
+    "url": "https://www.shl.com/solutions/products/general-ability-managerial/",
+    "description": "Cognitive ability assessment designed specifically for manager level candidates",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Manager"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 35
+  },
+  {
+    "entity_id": 1363,
+    "name": "General Ability - Professional",
+    "url": "https://www.shl.com/solutions/products/general-ability-professional/",
+    "description": "Cognitive ability assessment designed for experienced professional roles",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Professional"],
+    "languages": ["English (USA)", "English (UK)", "French", "German", "Spanish"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1364,
+    "name": "Prescriptive",
+    "url": "https://www.shl.com/solutions/products/prescriptive/",
+    "description": "Prescriptive assessment reports providing tailored recommendations based on assessment results",
+    "keys": ["Prescriptive"],
+    "job_levels": ["Entry Level", "Graduate", "Manager", "Professional", "Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 5
+  },
+  {
+    "entity_id": 1365,
+    "name": "Skills Assessment - Microsoft Office",
+    "url": "https://www.shl.com/solutions/products/skills-assessment-microsoft-office/",
+    "description": "Comprehensive Microsoft Office skills assessment covering Word, Excel, PowerPoint, and Outlook",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1366,
+    "name": "Skills Assessment - Administrative",
+    "url": "https://www.shl.com/solutions/products/skills-assessment-administrative/",
+    "description": "Assessment measuring administrative and clerical skills including typing, filing, and office procedures",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1367,
+    "name": "Skills Assessment - Call Center",
+    "url": "https://www.shl.com/solutions/products/skills-assessment-call-center/",
+    "description": "Assessment measuring call center skills including typing speed, data entry, and multi-tasking",
+    "keys": ["Knowledge & Skills", "Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1368,
+    "name": "Smart Interview Technical",
+    "url": "https://www.shl.com/solutions/products/smart-interview-technical/",
+    "description": "Video interview platform with technical question templates for IT and engineering roles",
+    "keys": ["Simulation"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1369,
+    "name": "Smart Interview Sales",
+    "url": "https://www.shl.com/solutions/products/smart-interview-sales/",
+    "description": "Video interview platform with sales-specific questions assessing selling skills and behaviors",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1370,
+    "name": "Smart Interview Customer Service",
+    "url": "https://www.shl.com/solutions/products/smart-interview-customer-service/",
+    "description": "Video interview platform with customer service scenario questions and behavioral assessment",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1371,
+    "name": "MS PowerPoint Knowledge",
+    "url": "https://www.shl.com/solutions/products/ms-powerpoint/",
+    "description": "Knowledge test assessing Microsoft PowerPoint presentation creation and design skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1372,
+    "name": "MS Outlook Knowledge",
+    "url": "https://www.shl.com/solutions/products/ms-outlook/",
+    "description": "Knowledge test assessing Microsoft Outlook email and calendar management skills",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1373,
+    "name": "Written English Knowledge",
+    "url": "https://www.shl.com/solutions/products/written-english/",
+    "description": "Knowledge test assessing written English language skills including grammar and composition",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1374,
+    "name": "Typing Test",
+    "url": "https://www.shl.com/solutions/products/typing-test/",
+    "description": "Assessment measuring typing speed and accuracy for administrative and data entry roles",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 5
+  },
+  {
+    "entity_id": 1375,
+    "name": "Data Entry Test",
+    "url": "https://www.shl.com/solutions/products/data-entry-test/",
+    "description": "Assessment measuring data entry speed and accuracy for administrative roles",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 10
+  },
+  {
+    "entity_id": 1376,
+    "name": "Cognitive Ability - Entry Level",
+    "url": "https://www.shl.com/solutions/products/cognitive-ability-entry-level/",
+    "description": "Cognitive ability assessment designed for entry level positions measuring basic reasoning skills",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)", "French", "Spanish"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1377,
+    "name": "Cognitive Ability - Executive",
+    "url": "https://www.shl.com/solutions/products/cognitive-ability-executive/",
+    "description": "High-level cognitive ability assessment for executive roles measuring complex reasoning",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 40
+  },
+  {
+    "entity_id": 1378,
+    "name": "Reading Comprehension",
+    "url": "https://www.shl.com/solutions/products/reading-comprehension/",
+    "description": "Assessment measuring reading comprehension and written information processing skills",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1379,
+    "name": "Grammar & Spelling",
+    "url": "https://www.shl.com/solutions/products/grammar-spelling/",
+    "description": "Assessment measuring English grammar and spelling proficiency for written communication roles",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 15
+  },
+  {
+    "entity_id": 1380,
+    "name": "Mathematics - Entry Level",
+    "url": "https://www.shl.com/solutions/products/mathematics-entry-level/",
+    "description": "Basic mathematics assessment for entry level positions measuring arithmetic and numerical skills",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 15
+  },
+  {
+    "entity_id": 1381,
+    "name": "Sales Aptitude",
+    "url": "https://www.shl.com/solutions/products/sales-aptitude/",
+    "description": "Assessment measuring natural aptitude and potential for sales roles",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral"],
+    "job_levels": ["Entry Level", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1382,
+    "name": "Customer Service Aptitude",
+    "url": "https://www.shl.com/solutions/products/customer-service-aptitude/",
+    "description": "Assessment measuring natural aptitude for customer service roles and client interactions",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1383,
+    "name": "Mechanical Aptitude",
+    "url": "https://www.shl.com/solutions/products/mechanical-aptitude/",
+    "description": "Assessment measuring mechanical aptitude for technical and maintenance roles",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1384,
+    "name": "Electrical Aptitude",
+    "url": "https://www.shl.com/solutions/products/electrical-aptitude/",
+    "description": "Assessment measuring electrical aptitude for technical and engineering roles",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1385,
+    "name": "Integrity & Reliability",
+    "url": "https://www.shl.com/solutions/products/integrity-reliability/",
+    "description": "Assessment measuring workplace integrity, reliability, and ethical behavior",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 15
+  },
+  {
+    "entity_id": 1386,
+    "name": "Emotional Intelligence Assessment",
+    "url": "https://www.shl.com/solutions/products/emotional-intelligence/",
+    "description": "Assessment measuring emotional intelligence, self-awareness, and interpersonal skills",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1387,
+    "name": "Teamwork Assessment",
+    "url": "https://www.shl.com/solutions/products/teamwork-assessment/",
+    "description": "Assessment measuring collaboration and teamwork competencies in workplace settings",
+    "keys": ["Personality & Behavioral"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1388,
+    "name": "Communication Assessment",
+    "url": "https://www.shl.com/solutions/products/communication-assessment/",
+    "description": "Assessment measuring written and verbal communication skills for workplace effectiveness",
+    "keys": ["Ability & Aptitude", "Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1389,
+    "name": "Problem Solving Assessment",
+    "url": "https://www.shl.com/solutions/products/problem-solving-assessment/",
+    "description": "Assessment measuring analytical problem-solving and critical thinking abilities",
+    "keys": ["Ability & Aptitude"],
+    "job_levels": ["Graduate", "Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1390,
+    "name": "Learning Agility Assessment",
+    "url": "https://www.shl.com/solutions/products/learning-agility/",
+    "description": "Assessment measuring ability to learn quickly and adapt to new situations and challenges",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral"],
+    "job_levels": ["Graduate", "Manager", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 20
+  },
+  {
+    "entity_id": 1391,
+    "name": "Digital Literacy Assessment",
+    "url": "https://www.shl.com/solutions/products/digital-literacy/",
+    "description": "Assessment measuring digital skills and technology proficiency for modern workplace roles",
+    "keys": ["Knowledge & Skills"],
+    "job_levels": ["Entry Level", "Graduate"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 25
+  },
+  {
+    "entity_id": 1392,
+    "name": "Executive Assessment",
+    "url": "https://www.shl.com/solutions/products/executive-assessment/",
+    "description": "Comprehensive executive-level assessment combining cognitive, personality, and behavioral measures",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral", "Situational Judgement"],
+    "job_levels": ["Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 90
+  },
+  {
+    "entity_id": 1393,
+    "name": "High Potential Assessment",
+    "url": "https://www.shl.com/solutions/products/high-potential-assessment/",
+    "description": "Assessment identifying high-potential employees through cognitive and behavioral indicators",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 60
+  },
+  {
+    "entity_id": 1394,
+    "name": "Succession Planning Assessment",
+    "url": "https://www.shl.com/solutions/products/succession-planning-assessment/",
+    "description": "Assessment for succession planning evaluating leadership readiness and development needs",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral"],
+    "job_levels": ["Manager", "Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 60
+  },
+  {
+    "entity_id": 1395,
+    "name": "Sales 2.0 Assessment",
+    "url": "https://www.shl.com/solutions/products/sales-2/",
+    "description": "Modern sales assessment measuring consultative selling, relationship building, and sales agility",
+    "keys": ["Personality & Behavioral", "Situational Judgement"],
+    "job_levels": ["Professional", "Manager"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 40
+  },
+  {
+    "entity_id": 1396,
+    "name": "Contact Center Simulation Suite",
+    "url": "https://www.shl.com/solutions/products/contact-center-simulation-suite/",
+    "description": "Comprehensive simulation suite for contact center roles including call, email, and chat scenarios",
+    "keys": ["Simulation"],
+    "job_levels": ["Entry Level"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 30
+  },
+  {
+    "entity_id": 1397,
+    "name": "Leadership Assessment",
+    "url": "https://www.shl.com/solutions/products/leadership-assessment/",
+    "description": "Comprehensive leadership assessment measuring leadership competencies and potential",
+    "keys": ["Personality & Behavioral", "Situational Judgement"],
+    "job_levels": ["Manager", "Executive"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1398,
+    "name": "Graduate Assessment Battery",
+    "url": "https://www.shl.com/solutions/products/graduate-assessment-battery/",
+    "description": "Combined assessment battery for graduate hiring including cognitive, personality, and SJT components",
+    "keys": ["Ability & Aptitude", "Personality & Behavioral", "Situational Judgement"],
+    "job_levels": ["Graduate"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 75
+  },
+  {
+    "entity_id": 1399,
+    "name": "Python Programming Simulation",
+    "url": "https://www.shl.com/solutions/products/python-programming-simulation/",
+    "description": "Hands-on coding simulation assessing Python programming skills in real-world scenarios",
+    "keys": ["Simulation", "Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1400,
+    "name": "Java Programming Simulation",
+    "url": "https://www.shl.com/solutions/products/java-programming-simulation/",
+    "description": "Hands-on coding simulation assessing Java programming skills in real-world scenarios",
+    "keys": ["Simulation", "Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  },
+  {
+    "entity_id": 1401,
+    "name": "Frontend Development Simulation",
+    "url": "https://www.shl.com/solutions/products/frontend-development-simulation/",
+    "description": "Coding simulation assessing frontend web development skills with HTML, CSS, and JavaScript",
+    "keys": ["Simulation", "Knowledge & Skills"],
+    "job_levels": ["Graduate", "Professional"],
+    "languages": ["English (USA)", "English (UK)"],
+    "duration": 45
+  }
+]
