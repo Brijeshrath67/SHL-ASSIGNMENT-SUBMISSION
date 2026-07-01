@@ -89,10 +89,3 @@ class CatalogRetriever:
         scored.sort(key=lambda x: -x[0])
         return [item for _, item in scored]
 
-    def search_by_name(self, query: str) -> list[dict[str, Any]]:
-        q = query.lower()
-        results = []
-        for item in self.catalog:
-            if q in item.get("name", "").lower():
-                results.append(item)
-        return results

@@ -6,9 +6,6 @@ from typing import Any
 CATALOG_PATH = Path(__file__).resolve().parent.parent / "data" / "catalog.json"
 
 
-FALLBACK_CATALOG_PATH = Path(__file__).resolve().parent.parent / "data" / "catalog_fallback.json"
-
-
 def _is_individual_test(name: str) -> bool:
     name_lower = name.lower()
     if "solution" in name_lower and "telephone" not in name_lower and "phone" not in name_lower:
@@ -38,10 +35,9 @@ def _enrich(item: dict) -> dict:
 
 
 def load_catalog() -> list[dict[str, Any]]:
-    path = CATALOG_PATH if CATALOG_PATH.exists() else FALLBACK_CATALOG_PATH
-    if not path.exists():
+    if not CATALOG_PATH.exists():
         return []
-    with open(path) as f:
+    with open(CATALOG_PATH) as f:
         items = json.load(f)
     filtered = [item for item in items if _is_individual_test(item.get("name", ""))]
     return [_enrich(item) for item in filtered]
